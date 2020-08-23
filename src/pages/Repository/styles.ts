@@ -51,7 +51,6 @@ ul {
   margin-top:40px;
 
   li {
-
     & + li {
       margin-left:80px;
     }
